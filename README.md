@@ -1,5 +1,5 @@
-#PROYECTO FINAL
-##SERVIDOR:
+# PROYECTO FINAL
+## SERVIDOR:
 - Para ejecutarlo ingresar a la carpeta: "backend" y renombrar
 el achivo ".env.example" por "env"
 - Agregar los datos que se requieren
