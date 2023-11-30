@@ -22,7 +22,7 @@ postRoutes.put("/posts/:postId", updatePost);
 //eliminar post
 postRoutes.delete("/posts/:postId", deletePost);
 
-//Rutas para los comentarios
+//RUTAS PARA LOS COMENTAIOS //
 export const commentRoutes = Router();
  
 //crear comment
